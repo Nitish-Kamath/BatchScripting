@@ -1,0 +1,7 @@
+Pts:-
+1.cmd command are not case sensitive.
+	If we mix Uppercase and lowercase character then also it doesn't throws error.
+	it works for:-
+	echo,ECHO,ECHo,echO,ECHO
+	Echo-It is used to check whether echo is on/off.
+	
